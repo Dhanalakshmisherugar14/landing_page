@@ -2,7 +2,7 @@ import React from "react";
 import { IoFlashOutline, IoShieldOutline, IoEyeOutline } from "react-icons/io5";
 import first from "../assets/first.png";
 import second from "../assets/second.png";
-import third from "../assets/third.png";
+import third from "../assets/Third.png";
 import fourth from "../assets/fourth.png";
 import fifth from "../assets/fifth.png";
 
