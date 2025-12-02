@@ -17,10 +17,10 @@ function Mainbody() {
         {/* LEFT TEXT */}
         <div className="space-y-6">
           <h2 className="text-[30px] md:text-[40px] font-normal text-black leading-[1.3]">
-           Deliver Branded LP Reporting Digitally
+          Manage LP Records from One Dashboard
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
-            Share performance reports, notices and updates through a secure, white-labelled LP portal.
+           Search, filter and access every investor profile and communication instantly.
           </p>
         </div>
 
@@ -50,10 +50,10 @@ function Mainbody() {
         {/* RIGHT TEXT */}
         <div className="space-y-6">
           <h2 className="text-[30px] md:text-[40px] font-normal text-black leading-[1.3] whitespace-nowrap">
-            Automate Fund & NAV Reporting
+         Track Capital Activity in Real Time
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
-            Generate quarterly reports, valuations and NAV updates using real-time portfolio data.
+           See commitments, calls and distributions with automatic reconciliation.
           </p>
         </div>
 
@@ -65,7 +65,7 @@ function Mainbody() {
         {/* LEFT TEXT */}
         <div className="space-y-6">
           <h2 className="text-[30px] md:text-[40px] font-normal text-black leading-[1.3] lg:whitespace-nowrap">
-           Provide Personalised <br /> Performance Views
+           Offer LPs a Unified  <br /> Investment View
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
             Show each LP's commitments, calls, distributions, IRR and portfolio exposure at a glance.
@@ -98,10 +98,10 @@ function Mainbody() {
         {/* RIGHT TEXT */}
         <div className="space-y-6">
           <h2 className="text-[30px] md:text-[40px] font-normal text-black leading-[1.3]">
-          Secure Every Report & Transaction
+         Control Access and Keep Data Audit-Ready
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
-           Store reports, statements and notices in an indexed audit-ready vault with transaction-level accuracy.
+           Set precise role permissions and maintain full activity logs with timestamps.
           </p>
         </div>
 
@@ -113,10 +113,10 @@ function Mainbody() {
         {/* LEFT TEXT */}
         <div className="space-y-6">
           <h2 className="text-[30px] md:text-[40px] font-normal text-black leading-[1.3]">
-           Act on Real-Time LP Engagement
+          Keep All Fund Data Updated Automatically
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
-           Track opens, responses and interactions to prioritise outreach and strengthen investor relationships.
+           Sync transactions, reports and metrics with scheduled or manual refreshes.
           </p>
         </div>
 
@@ -146,10 +146,10 @@ function Mainbody() {
         {/* RIGHT TEXT */}
         <div className="space-y-6">
           <h2 className="text-[30px] md:text-[40px] font-normal text-black leading-[1.3]">
-            Streamline Your Operations
+            Protect Investor Data <br/> with Enterprise-Grade <br/>Security
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
-            Simplify complex workflows and enhance operational efficiency with our integrated tools.
+           Operate on SOC 2-certified, fully encrypted environment to safeguard all LP and fund information.
           </p>
         </div>
 
