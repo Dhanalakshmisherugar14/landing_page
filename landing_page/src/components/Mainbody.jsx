@@ -15,7 +15,7 @@ function Mainbody() {
 
         {/* LEFT TEXT */}
         <div className="space-y-6">
-          <h2 className="text-[34px] md:text-[40px] font-semibold text-black leading-[1.3]">
+          <h2 className="text-[34px] md:text-[40px] font-normal text-black leading-[1.3]">
             Digitize Investor Onboarding
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
@@ -49,7 +49,7 @@ function Mainbody() {
 
         {/* RIGHT TEXT */}
         <div className="space-y-6">
-          <h2 className="text-[34px] md:text-[40px] font-semibold text-black leading-[1.3]">
+          <h2 className="text-[34px] md:text-[40px] font-normal text-black leading-[1.3]">
             Automate Compliance Checks
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
@@ -65,7 +65,7 @@ function Mainbody() {
         
         {/* LEFT TEXT */}
         <div className="space-y-6">
-          <h2 className="text-[34px] md:text-[40px] font-semibold text-black leading-[1.3] lg:whitespace-nowrap">
+          <h2 className="text-[34px] md:text-[40px] font-normal text-black leading-[1.3] lg:whitespace-nowrap">
             Screen AML & Risk Automatically
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
@@ -98,7 +98,7 @@ function Mainbody() {
 
         {/* RIGHT TEXT */}
         <div className="space-y-6">
-          <h2 className="text-[34px] md:text-[40px] font-semibold text-black leading-[1.3]">
+          <h2 className="text-[34px] md:text-[40px] font-normal text-black leading-[1.3]">
             Secure Documents & Audit Trails
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
@@ -113,7 +113,7 @@ function Mainbody() {
         
         {/* LEFT TEXT */}
         <div className="space-y-6">
-          <h2 className="text-[34px] md:text-[40px] font-semibold text-black leading-[1.3]">
+          <h2 className="text-[34px] md:text-[40px] font-normal text-black leading-[1.3]">
             Reuse LP Identity Across Funds
           </h2>
           <p className="text-[17px] text-gray-700 leading-[28px] max-w-md">
